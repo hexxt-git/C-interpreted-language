@@ -1,5 +1,5 @@
-# hard to master language (HTML)
-is an interpreted programming language made in C. it offers simple instructions that *should be turing complete* so you could make anything in it, the whole thing was made in one night.
+# C-interpreted-language
+also known as **HTML** — *hard to master language*. it is an interpreted programming language made in C. it offers simple instructions that *should be turing complete* so you could make anything in it, the whole thing was made in one night.
 
 feel free to contribute to this with code examples, instructions or whatever you like.
 ## how to use
